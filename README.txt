@@ -56,4 +56,4 @@ int %t1(int %a, int %b) {
   leaf fns.
 * Fill delay slots
 
-* Implement JIT support
+$ Implement JIT support
